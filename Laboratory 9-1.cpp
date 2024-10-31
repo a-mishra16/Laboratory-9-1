@@ -49,6 +49,6 @@ int main()
 	}
 
 	cout << "\nFirst and Last:\t     ";
-	cout << values[0] << "\t" << values[9];
+	cout << values[0] << "\t" << values[9]; 
 }
 
