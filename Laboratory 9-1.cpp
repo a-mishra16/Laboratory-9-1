@@ -33,6 +33,15 @@ int main()
 		}
 	}
 
+	cout << "\nEven values:\t     ";
+	for (int i = 0; i < 10; i++)
+	{
+		if (values[i] % 2 == 0)
+		{
+			cout << values[i] << "\t";
+		}
+	}
+
 	
 }
 
