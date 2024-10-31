@@ -42,6 +42,12 @@ int main()
 		}
 	}
 
+	cout << "\nReversed Order:\t     ";
+	for (int i = 9; i >= 0; i--)
+	{
+		cout << values[i] << "\t";
+	}
+
 	
 }
 
